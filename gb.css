@@ -3,3 +3,14 @@
   text-transform: uppercase;
 }
 
+.bold {
+  font-weight: bold;
+}
+
+.relative {
+  position: relative;
+}
+
+.left-2em {
+  left: -2em;
+}
